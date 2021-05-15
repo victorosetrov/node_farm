@@ -1,0 +1,25 @@
+{
+  "name": "node_farm",
+  "version": "1.0.0",
+  "description": "nodejs learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorosetrov/node_farm.git"
+  },
+  "author": "Viktor Osetrov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorosetrov/node_farm/issues"
+  },
+  "homepage": "https://github.com/victorosetrov/node_farm#readme",
+  "dependencies": {
+    "slugify": "^1.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
